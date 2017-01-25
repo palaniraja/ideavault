@@ -6,6 +6,7 @@ Date: 2014-11-14
 - Send clipboard data
 - Spritz
 
+**Update**: http://dr-palaniraja.blogspot.com/2017/01/speedy-speed-reading-application-for-mac.html
 
 ### Links
 
