@@ -1,5 +1,7 @@
 ## Idea
 
+Date: 2014-11-14
+
 - Mac app
 - Send clipboard data
 - Spritz
@@ -11,13 +13,13 @@ http://stackoverflow.com/questions/6652979/applescript-to-get-body-of-a-message-
 
 
 
-
+```
 AppleScript to get content
 on run {input, parameters}
     display dialog input
     return input
 end run
-
+```
 
 https://github.com/vivekseth/Open-Spritz-iOS
 
@@ -30,4 +32,3 @@ https://github.com/vivekseth/VSSPritz
 http://simx.me/technonova/tips/creating_a_service_for_mac_os_x.html
 
 
-init: 2014-11-14
