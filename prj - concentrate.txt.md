@@ -5,6 +5,7 @@
 * in/out swing,
 * off/leg spin
 * pace attack
+* Random line length
 
 
 ####Links
