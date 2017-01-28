@@ -1,5 +1,7 @@
 ###Group Photo
 
+One phone act as a camera and another one/many act as a trigger (passive)
+
 * Bluetooth to trigger photo
 * multiplier / view preview
 * timer flash before taking photo
