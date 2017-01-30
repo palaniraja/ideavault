@@ -5,7 +5,6 @@ side by side image
 before & after - simple
 
 
-
 2 images
 
 - side by side
@@ -17,6 +16,15 @@ before & after - simple
 
 More than 2 consider as Album?
 	- Choose 1 and cycle through rest?
+
+###Update
+
+Download - Basic usable version - https://goo.gl/WIZrWF
+Usage: Drop two images to dock icon
+
+
+![screenshot](resources/prj img diff/Bafter-screenshot.png)
+
 
 
 ####Links
