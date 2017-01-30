@@ -19,8 +19,8 @@ More than 2 consider as Album?
 
 ###Update
 
-Download - Basic usable version - https://goo.gl/WIZrWF
-Usage: Drop two images to dock icon
+* [Download](https://goo.gl/WIZrWF) - Basic usable version
+* **Usage**: Drop two images to dock icon
 
 
 ![screenshot](resources/prj img diff/Bafter-screenshot.png)
