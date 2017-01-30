@@ -1,11 +1,6 @@
 ###Project Image diff
 
-side by side image
-
-before & after - simple
-
-
-2 images
+Compare 2 images (a simple before and after for picking images after post processing)
 
 - side by side
 - up & down
