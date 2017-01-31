@@ -2,15 +2,15 @@
 
 Compare 2 images (a simple before and after for picking images after post processing)
 
-- side by side
-- up & down
-- overlay
-	- horizontal
-	- vertical
-	- adjustable
+- [x] side by side
+- [ ] up & down
+- [ ] overlay
+	- [ ] horizontal
+	- [ ] vertical
+	- [ ] adjustable
 
 More than 2 consider as Album?
-	- Choose 1 and cycle through rest?
+	- [ ] Choose 1 and cycle through rest?
 
 ###Update
 
