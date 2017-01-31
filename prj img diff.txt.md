@@ -3,7 +3,7 @@
 Compare 2 images (a simple before and after for picking images after post processing)
 
 - [x] side by side
-- [ ] up & down
+- [x] up & down
 - [ ] overlay
 	- [ ] horizontal
 	- [ ] vertical
@@ -19,6 +19,7 @@ More than 2 consider as Album?
 
 
 ![screenshot](resources/prj img diff/Bafter-screenshot.png)
+![screenshot](resources/prj img diff/Bafter-screenshot-2.png)
 
 
 
