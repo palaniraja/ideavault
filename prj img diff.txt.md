@@ -4,6 +4,7 @@ Compare 2 images (a simple before and after for picking images after post proces
 
 - [x] side by side
 - [x] up & down
+- [ ] zoom (synchronized)
 - [ ] overlay
 	- [ ] horizontal
 	- [ ] vertical
